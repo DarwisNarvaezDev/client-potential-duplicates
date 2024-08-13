@@ -1,5 +1,5 @@
 # Potential Duplicates Check
-As a challenge for 'Compass', a simple program that checks a clients base for potential duplicates.
+As a challenge, a simple program that checks a clients base for potential duplicates.
 
 ## Rationale Under the Hood
 The program will calculate an accuracy score based on the likeness of client's contact info, there are three levels of
