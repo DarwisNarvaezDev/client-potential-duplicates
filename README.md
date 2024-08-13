@@ -15,6 +15,10 @@ client pair that match with the following scenarios:
 - The method "searchPotentialDuplicates" returns a list with "potential duplicates", an object that holds the
 id pairs of the objects that match as the criteria states and its accuracy score between low and high
 
+## Things the Developer Thought to Implement but Didn't
+- Stripping dots and commas from addresses, the developer thought those were unnessesary but, decided to leave it
+- Zip code validation, due lack of conventions and general knowledge about the code, specially how many landspace is covered by one single code.
+
 ## The Tests
 Are written in Groovy, a scripting language that make TDD easy, using Spock testing framework. The tests covers all the
 scenarios of the scoring.
