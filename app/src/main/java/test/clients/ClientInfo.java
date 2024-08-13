@@ -72,7 +72,7 @@ public class ClientInfo {
         info1.setId("1001");
         info1.setFirstName("Darwis Miguel");
         info1.setLastName("Narvaez Patino");
-        info1.setAddress("Jose Hernandez, 2768, 8vo 'A'");
+        info1.setAddress("John doe street, 2828");
         info1.setEmail("darwisnarvaezdev@gmail.com");
         info1.setZipCode(1426);
 
@@ -80,7 +80,7 @@ public class ClientInfo {
         info2.setId("1002");
         info2.setFirstName("Darwis");
         info2.setLastName("Narvaez");
-        info2.setAddress("2768, Jose Hernandez 8vo 'A'");
+        info2.setAddress("John doe street, 2828");
         info2.setEmail("darwisnarvaezdev@gmail.com");
         info2.setZipCode(1426);
 
@@ -88,7 +88,7 @@ public class ClientInfo {
         info3.setId("1003");
         info3.setFirstName("Miguel");
         info3.setLastName("Narvaez");
-        info3.setAddress("Jose Hernandez, 2768, 8vo 'A'");
+        info3.setAddress("John doe street, 2828");
         info3.setEmail("darwisnarvaezdev@gmail.com");
         info3.setZipCode(1426);
 
@@ -96,7 +96,7 @@ public class ClientInfo {
         info4.setId("1004");
         info4.setFirstName("John");
         info4.setLastName("Doe");
-        info4.setAddress("Jose Hernandez, 2768, 8vo 'A'");
+        info4.setAddress("John doe street, 2828");
         info4.setEmail("j_doe@gmail.com");
         info4.setZipCode(1426);
 
@@ -104,7 +104,7 @@ public class ClientInfo {
         info5.setId("1005");
         info5.setFirstName("John");
         info5.setLastName("Doe");
-        info5.setAddress("Hernandez Jose, 2768, 8vo 'A'");
+        info5.setAddress("John doe street, 2828");
         info5.setEmail("j_doe@gmail.com");
         info5.setZipCode(1426);
 
@@ -112,7 +112,7 @@ public class ClientInfo {
         info6.setId("1006");
         info6.setFirstName("Miguel Darwis");
         info6.setLastName("Narvaez Patino");
-        info6.setAddress("Jose Hernandez, 2768, 8vo 'A'");
+        info6.setAddress("John doe street, 2828");
         info6.setEmail("darwisnarvaezdev@gmail.com");
         info6.setZipCode(1426);
 
@@ -120,7 +120,7 @@ public class ClientInfo {
         info7.setId("1007");
         info7.setFirstName("Miguel Darwis");
         info7.setLastName("Patino Narvaez");
-        info7.setAddress("Jose Hernandez, 2768, 8vo 'A'");
+        info7.setAddress("John doe street, 2828");
         info7.setEmail("darwisnarvaezdev@gmail.com");
         info7.setZipCode(1426);
 
